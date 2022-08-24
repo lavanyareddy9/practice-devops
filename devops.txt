@@ -4,4 +4,8 @@ Git is opensource and compresentive tool
 Git commands are very usefull
 Git is comprehensive tool
 Git is easy to understand
+<<<<<<< HEAD
 Git is cool tool
+=======
+demo conflict
+>>>>>>> a3132e57a30da26ffaaa9aeb8731e4e91280921b
