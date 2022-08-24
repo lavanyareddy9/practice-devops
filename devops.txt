@@ -2,3 +2,4 @@ Git is awesome tool
 Git is fast
 Git is opensource and compresentive tool
 Git commands are very usefull
+Git is comprehensive tool
